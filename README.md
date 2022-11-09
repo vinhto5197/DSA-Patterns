@@ -1,5 +1,7 @@
 # DSA-Patterns
-General patterns, sample code, and review documents for Leetcode questions
+General patterns, sample code, and review documents for Leetcode questions.
+
+Review documents for each topic has its own .md file.
 
 ## Misc. and Design
 ### Miscellaneous (32)
