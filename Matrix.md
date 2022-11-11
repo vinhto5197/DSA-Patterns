@@ -11,6 +11,8 @@ Hence, the first step in a matrix problem is always specifying the number of row
 
 `cols = len(matrix[0])`
 
+Most Matrix problems have time complexity of `O(m*n)` since we visit each cell once. Some could also be solved in `O(m+n)`.
+
 ## General Application
 - BFS/DFS: Most common type of Matrix problem.
 
